@@ -1,0 +1,70 @@
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.exe
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.deps.json
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.runtimeconfig.json
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.dll
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.pdb
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.csproj.AssemblyReference.cache
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control01_TextBlock.g.cs
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\App.g.cs
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control_MarkupCompile.cache
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control_MarkupCompile.lref
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control01_TextBlock.baml
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\MainWindow.baml
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.g.resources
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.AssemblyInfoInputs.cache
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.AssemblyInfo.cs
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.csproj.CoreCompileInputs.cache
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.dll
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\refint\LearnWPF05_Control.dll
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.pdb
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.genruntimeconfig.cache
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\ref\LearnWPF05_Control.dll
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control02_Label.g.cs
+E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control02_Label.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.exe
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.deps.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.runtimeconfig.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\bin\Debug\net6.0-windows\LearnWPF05_Control.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.csproj.AssemblyReference.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control01_TextBlock.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control02_Label.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control03_TextBox.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\App.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control_MarkupCompile.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control_MarkupCompile.lref
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control01_TextBlock.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control02_Label.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control03_TextBox.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.g.resources
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.AssemblyInfoInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.AssemblyInfo.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.csproj.CoreCompileInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\refint\LearnWPF05_Control.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\LearnWPF05_Control.genruntimeconfig.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\ref\LearnWPF05_Control.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control04_Button.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control04_Button.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control05_CheckBox.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control05_CheckBox.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control06_RadioButton.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control07_PasswordBox.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control08_Image.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control06_RadioButton.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control07_PasswordBox.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control08_Image.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control09_ToolTip.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control09_ToolTip.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control10_TextRendering.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control11_Tab.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control12_AccessKey.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control10_TextRendering.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control11_Tab.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control12_AccessKey.baml

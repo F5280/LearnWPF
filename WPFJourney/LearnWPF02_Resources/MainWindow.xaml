@@ -1,0 +1,22 @@
+﻿<Window x:Class="LearnWPF02_Resources.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearnWPF02_Resources"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+        mc:Ignorable="d"
+        Title="Resources" Height="150" Width="360" WindowStartupLocation="CenterScreen">
+    
+    <Window.Resources>
+        <sys:String x:Key="strHelloWorld">Hello World!</sys:String>
+    </Window.Resources>
+
+    <StackPanel Margin="10">
+        <TextBlock Text="{StaticResource strHelloWorld}" FontSize="56"/>
+        <TextBlock>
+            Just another "<TextBlock Text="{StaticResource strHelloWorld}"/>" example, but with resource!
+        </TextBlock>
+        
+    </StackPanel>
+</Window>

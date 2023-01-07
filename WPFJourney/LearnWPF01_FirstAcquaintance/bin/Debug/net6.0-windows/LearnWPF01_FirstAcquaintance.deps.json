@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LearnWPF01_FirstAcquaintance/1.0.0": {
+        "runtime": {
+          "LearnWPF01_FirstAcquaintance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnWPF01_FirstAcquaintance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿<Application x:Class="LearnWPF02_Resources.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LearnWPF02_Resources"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="WindowResource2.xaml">
+    <Application.Resources>
+        <sys:String x:Key="ComboBoxTitle">Items:</sys:String>
+
+        <sys:String x:Key="strApp">Hello App Resource!</sys:String>
+        
+    </Application.Resources>
+</Application>

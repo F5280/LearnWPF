@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Control01_TextBlock.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control02_Label.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control03_TextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control04_Button.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control05_CheckBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control06_RadioButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control07_PasswordBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control08_Image.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control09_ToolTip.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control10_TextRendering.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control11_Tab.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control12_AccessKey.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Control01_TextBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control02_Label.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control03_TextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control04_Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control05_CheckBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control06_RadioButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control07_PasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control08_Image.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control09_ToolTip.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control10_TextRendering.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control11_Tab.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control12_AccessKey.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
