@@ -21,3 +21,26 @@ E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF03_ExceptionSa
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\ref\LearnWPF03_ExceptionSample.dll
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\Example1.g.cs
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\Example1.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\bin\Debug\net6.0-windows\LearnWPF03_ExceptionSample.exe
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\bin\Debug\net6.0-windows\LearnWPF03_ExceptionSample.deps.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\bin\Debug\net6.0-windows\LearnWPF03_ExceptionSample.runtimeconfig.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\bin\Debug\net6.0-windows\LearnWPF03_ExceptionSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\bin\Debug\net6.0-windows\LearnWPF03_ExceptionSample.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.csproj.AssemblyReference.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\Example1.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\App.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample_MarkupCompile.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample_MarkupCompile.lref
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\Example1.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.g.resources
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.AssemblyInfoInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.AssemblyInfo.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.csproj.CoreCompileInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\refint\LearnWPF03_ExceptionSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\LearnWPF03_ExceptionSample.genruntimeconfig.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF03_ExceptionSample\obj\Debug\net6.0-windows\ref\LearnWPF03_ExceptionSample.dll

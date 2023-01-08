@@ -45,7 +45,7 @@ namespace LearnWPF04_InternationalizationSample {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "7.0.1.0")]
         public void InitializeComponent() {
             
             #line 6 "..\..\..\App.xaml"
@@ -66,7 +66,7 @@ namespace LearnWPF04_InternationalizationSample {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "7.0.1.0")]
         public static void Main() {
             LearnWPF04_InternationalizationSample.App app = new LearnWPF04_InternationalizationSample.App();
             app.InitializeComponent();

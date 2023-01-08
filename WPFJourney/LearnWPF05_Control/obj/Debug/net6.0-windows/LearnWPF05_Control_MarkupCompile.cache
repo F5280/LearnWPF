@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\App.xaml
-13-929383206
+15-2101318562
 
-15671018002
+17470235160
 194-1797456590
-Control01_TextBlock.xaml;Control02_Label.xaml;Control03_TextBox.xaml;Control04_Button.xaml;Control05_CheckBox.xaml;Control06_RadioButton.xaml;Control07_PasswordBox.xaml;Control08_Image.xaml;Control09_ToolTip.xaml;Control10_TextRendering.xaml;Control11_Tab.xaml;Control12_AccessKey.xaml;MainWindow.xaml;
+Control01_TextBlock.xaml;Control02_Label.xaml;Control03_TextBox.xaml;Control04_Button.xaml;Control05_CheckBox.xaml;Control06_RadioButton.xaml;Control07_PasswordBox.xaml;Control08_Image.xaml;Control09_ToolTip.xaml;Control10_TextRendering.xaml;Control11_Tab.xaml;Control12_AccessKey.xaml;Control13_Border.xaml;Control14_Slider.xaml;MainWindow.xaml;
 
 False
 

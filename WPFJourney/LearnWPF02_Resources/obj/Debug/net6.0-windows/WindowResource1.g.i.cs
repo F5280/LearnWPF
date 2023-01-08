@@ -53,7 +53,7 @@ namespace LearnWPF02_Resources {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LearnWPF02_Resources;V1.0.0.0;component/windowresource1.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LearnWPF02_Resources;component/windowresource1.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowResource1.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

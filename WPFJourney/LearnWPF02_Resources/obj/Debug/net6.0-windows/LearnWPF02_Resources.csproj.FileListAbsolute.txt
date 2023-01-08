@@ -24,3 +24,29 @@ E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF02_Resources\o
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\WindowResource2.g.cs
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\App.baml
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\WindowResource2.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\bin\Debug\net6.0-windows\LearnWPF02_Resources.exe
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\bin\Debug\net6.0-windows\LearnWPF02_Resources.deps.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\bin\Debug\net6.0-windows\LearnWPF02_Resources.runtimeconfig.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\bin\Debug\net6.0-windows\LearnWPF02_Resources.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\bin\Debug\net6.0-windows\LearnWPF02_Resources.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.csproj.AssemblyReference.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\WindowResource1.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\WindowResource2.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\App.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources_MarkupCompile.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources_MarkupCompile.lref
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\App.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\WindowResource1.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\WindowResource2.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.g.resources
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.AssemblyInfoInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.AssemblyInfo.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.csproj.CoreCompileInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\refint\LearnWPF02_Resources.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\LearnWPF02_Resources.genruntimeconfig.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF02_Resources\obj\Debug\net6.0-windows\ref\LearnWPF02_Resources.dll

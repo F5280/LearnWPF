@@ -19,3 +19,24 @@ E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF01_FirstAcquai
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.pdb
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.genruntimeconfig.cache
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\ref\LearnWPF01_FirstAcquaintance.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\bin\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.exe
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\bin\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.deps.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\bin\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.runtimeconfig.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\bin\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\bin\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.csproj.AssemblyReference.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\App.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance_MarkupCompile.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance_MarkupCompile.lref
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.g.resources
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.AssemblyInfoInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.AssemblyInfo.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.csproj.CoreCompileInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\refint\LearnWPF01_FirstAcquaintance.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\LearnWPF01_FirstAcquaintance.genruntimeconfig.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF01_FirstAcquaintance\obj\Debug\net6.0-windows\ref\LearnWPF01_FirstAcquaintance.dll

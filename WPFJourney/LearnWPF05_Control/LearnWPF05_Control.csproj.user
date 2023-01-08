@@ -43,6 +43,12 @@
     <Compile Update="Control12_AccessKey.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Control13_Border.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Control14_Slider.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Control01_TextBlock.xaml">
@@ -79,6 +85,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Control12_AccessKey.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control13_Border.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Control14_Slider.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

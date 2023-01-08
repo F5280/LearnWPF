@@ -45,7 +45,7 @@ namespace LearnWPF03_ExceptionSample {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "7.0.1.0")]
         public void InitializeComponent() {
             
             #line 5 "..\..\..\App.xaml"
@@ -66,7 +66,7 @@ namespace LearnWPF03_ExceptionSample {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "7.0.1.0")]
         public static void Main() {
             LearnWPF03_ExceptionSample.App app = new LearnWPF03_ExceptionSample.App();
             app.InitializeComponent();

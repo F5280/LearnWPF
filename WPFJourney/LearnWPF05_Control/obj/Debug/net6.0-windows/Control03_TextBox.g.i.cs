@@ -61,7 +61,7 @@ namespace LearnWPF05_Control {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LearnWPF05_Control;V1.0.0.0;component/control03_textbox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LearnWPF05_Control;component/control03_textbox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Control03_TextBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -85,7 +85,7 @@ namespace LearnWPF05_Control {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LearnWPF05_Control;V1.0.0.0;component/control05_checkbox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LearnWPF05_Control;component/control05_checkbox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Control05_CheckBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

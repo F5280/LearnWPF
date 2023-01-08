@@ -53,7 +53,7 @@ namespace LearnWPF05_Control {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LearnWPF05_Control;V1.0.0.0;component/control08_image.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LearnWPF05_Control;component/control08_image.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Control08_Image.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

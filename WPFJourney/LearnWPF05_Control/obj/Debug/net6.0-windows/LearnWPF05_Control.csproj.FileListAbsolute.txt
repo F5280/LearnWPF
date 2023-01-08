@@ -68,3 +68,7 @@ E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\D
 E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control10_TextRendering.baml
 E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control11_Tab.baml
 E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control12_AccessKey.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control13_Border.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control14_Slider.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control13_Border.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF05_Control\obj\Debug\net6.0-windows\Control14_Slider.baml

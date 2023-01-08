@@ -19,3 +19,24 @@ E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF04_Internation
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.pdb
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.genruntimeconfig.cache
 E:\GitRepositories\GitHubRepositories\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\ref\LearnWPF04_InternationalizationSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\bin\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.exe
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\bin\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.deps.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\bin\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.runtimeconfig.json
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\bin\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\bin\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.csproj.AssemblyReference.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\App.g.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample_MarkupCompile.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample_MarkupCompile.lref
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.g.resources
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.AssemblyInfoInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.AssemblyInfo.cs
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.csproj.CoreCompileInputs.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\refint\LearnWPF04_InternationalizationSample.dll
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.pdb
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\LearnWPF04_InternationalizationSample.genruntimeconfig.cache
+E:\Git Repository\GitHub Repository\LearnWPF\WPFJourney\LearnWPF04_InternationalizationSample\obj\Debug\net6.0-windows\ref\LearnWPF04_InternationalizationSample.dll

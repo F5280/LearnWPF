@@ -2076,6 +2076,173 @@
 
 #### Border
 
+> 一个装饰控件。可以用来添加一个边界，一个背景或者两者一起，以及其他的一些元素。由于 WPF 的面板(Panels)并不支持在其边缘添加边界，边界控件可以辅助实现，诸如环绕面板添加一个边界的操作
+> 
+> ```xml
+> <!-- .\LearnWPF\WPFJourney\LearnWPF05_Control\Control12_Border -->
+> <Window x:Class="LearnWPF05_Control.Control13_Border"
+>         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+>         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+>         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+>         xmlns:local="clr-namespace:LearnWPF05_Control"
+>         mc:Ignorable="d"
+>         Title="Control13_Border" Height="170" Width="200">
+>     <Grid Margin="10">
+>         <Border Background="GhostWhite" BorderBrush="Gainsboro" BorderThickness="1">
+>             <StackPanel Margin="10">
+>                 <Button>Button 1</Button>
+>                 <Button Margin="0,10">Button 2</Button>
+>                 <Button>Button 3</Button>
+>             </StackPanel>
+>         </Border>
+>     </Grid>
+> </Window>
+> ```
+> 
+> ![效果演示](./images/013Control_Border1.PNG)
+> 
+> ---
+> 
+> <u>圆角边界</u>
+> 
+> ```xml
+> <Window x:Class="LearnWPF05_Control.Control13_Border"
+>         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+>         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+>         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+>         xmlns:local="clr-namespace:LearnWPF05_Control"
+>         mc:Ignorable="d"
+>         Title="Control13_Border" Height="170" Width="200">
+>     <Grid Margin="10">
+>         <!--#region 圆角边界 -->
+>         <Border Background="GhostWhite" BorderBrush="Silver" BorderThickness="1" CornerRadius="8,8,3,3">
+>             <StackPanel Margin="10">
+>                 <Button>Button 1</Button>
+>                 <Button Margin="0,10">Button 2</Button>
+>                 <Button>Button 3</Button>
+>             </StackPanel>
+>         </Border>
+>         <!--#endregion-->
+> 
+>     </Grid>
+> </Window>
+> ```
+> 
+> ![效果演示](./images/014Control_Border2.PNG)
+> 
+> ---
+> 
+> <u>边界颜色/宽度</u>
+> 
+> ```xml
+> <Window x:Class="LearnWPF05_Control.Control13_Border"
+>         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+>         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+>         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+>         xmlns:local="clr-namespace:LearnWPF05_Control"
+>         mc:Ignorable="d"
+>         Title="Control13_Border" Height="170" Width="200">
+>     <Grid Margin="10">
+>         <!--#region 边界颜色 -->
+>         <Border Background="GhostWhite" BorderBrush="DodgerBlue" BorderThickness="1,3,1,5">
+>             <StackPanel Margin="10">
+>                 <Button>Button 1</Button>
+>                 <Button Margin="0,10">Button 2</Button>
+>                 <Button>Button 3</Button>
+>             </StackPanel>
+>         </Border>
+>         <!--#endregion-->
+>     </Grid>
+> </Window>
+> ```
+> 
+> ![效果演示](./images/015Control_Border3.PNG)
+> 
+> ---
+> 
+> <u>边界背景</u>
+> 
+> ```xml
+> <Window x:Class="LearnWPF05_Control.Control13_Border"
+>         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+>         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+>         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+>         xmlns:local="clr-namespace:LearnWPF05_Control"
+>         mc:Ignorable="d"
+>         Title="Control13_Border" Height="170" Width="200">
+>     <Grid Margin="10">
+>         <!--#region 边界背景 -->
+>         <Border BorderBrush="Navy" BorderThickness="1,3,1,5">
+>             <Border.Background>
+>                 <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+>                     <GradientStop Color="LightCyan" Offset="0.0" />
+>                     <GradientStop Color="LightBlue" Offset="0.5" />
+>                     <GradientStop Color="DarkTurquoise" Offset="1.0" />
+>                 </LinearGradientBrush>
+>             </Border.Background>
+>             <StackPanel Margin="10">
+>                 <Button>Button 1</Button>
+>                 <Button Margin="0,10">Button 2</Button>
+>                 <Button>Button 3</Button>
+>             </StackPanel>
+>         </Border>
+>         <!--#endregion-->
+>     </Grid>
+> </Window>
+> ```
+> 
+> ![效果演示](./images/016Control_Border4.PNG)
+
+#### Slider
+
+> 允许通过沿水平或垂直线拖动滑块(Thumb)来选择数值
+> 
+> ```xml
+> <Window x:Class="LearnWPF05_Control.Control14_Slider"
+>         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+>         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+>         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+>         xmlns:local="clr-namespace:LearnWPF05_Control"
+>         mc:Ignorable="d"
+>         Title="Control14_Slider" Height="100" Width="300">
+>     <StackPanel VerticalAlignment="Center" Margin="10">
+>         <Slider Maximum="100" />
+>     </StackPanel>
+> </Window>
+> ```
+> 
+> ---
+> 
+> <u>刻度</u>
+> 
+> ```xml
+> <Window x:Class="LearnWPF05_Control.Control14_Slider"
+>         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+>         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+>         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+>         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+>         xmlns:local="clr-namespace:LearnWPF05_Control"
+>         mc:Ignorable="d"
+>         Title="Control14_Slider" Height="100" Width="300">
+> 
+>     <!--#region Slider刻度-->
+>     <StackPanel VerticalAlignment="Center" Margin="10">
+>         <Slider Maximum="100" TickPlacement="BottomRight" TickFrequency="5" />
+>     </StackPanel>
+>     <!--#endregion-->
+> </Window>
+> ```
+> 
+> ![效果演示](./images/017Control_Slider1.PNG)
+> 
+> ---
+> 
+> <u>捕获标记</u>
 > 
 
 ### 面板（布局）控件
